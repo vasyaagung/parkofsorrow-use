@@ -1,0 +1,39 @@
+{
+  "name": "parkofsorrow-use",
+  "version": "1.0.0",
+  "description": "Use ParkofSorrow for specific tasks and processes, enhancing system efficiency.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vasyaagung/parkofsorrow-use"
+  },
+  "author": "vasyaagung",
+  "license": "MIT",
+  "dependencies": {
+    "parkofsorrow-sys": "1.0.0",
+    "parkofsorrow-use": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "mocha": "1.0.0",
+    "firebase": "1.0.0",
+    "express": "1.0.0",
+    "supertest": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "webpack": "1.0.0",
+    "underscore": "1.0.0",
+    "eslint": "1.0.0",
+    "jest": "1.0.0",
+    "sinon": "1.0.0",
+    "babel-core": "1.0.0",
+    "mongoose": "1.0.0",
+    "react-dom": "1.0.0",
+    "mysql": "1.0.0",
+    "axios": "1.0.0",
+    "helmet": "1.0.0",
+    "react-redux": "1.0.0",
+    "lodash": "1.0.0",
+    "nodemon": "1.0.0"
+  }
+}
